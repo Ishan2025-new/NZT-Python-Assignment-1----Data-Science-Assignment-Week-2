@@ -1,0 +1,5 @@
+Rohit,Python,65
+Sneha,Data Science,90
+Mohini,ML,85
+Raj,AI,60
+Neha,ML,85
