@@ -44,6 +44,10 @@ numbers.remove(2)
 # Show the results
 print(f"Changed List: {numbers}")
 
+# Sort the ascending and descending order
+print(f"Ascending: {sorted(numbers)}")
+print(f"Descending: {sorted(numbers, reverse=True)}")
+
 # Convert the list to NumPy Array
 arr = np.array(numbers)
 
